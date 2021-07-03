@@ -11,8 +11,7 @@ This repository is about creating a control panel web page for controlling Direc
  
    If you click on stop the base will stop.
    
-   this page is Responsive web design with the mobile and diffrint secreen size.
-   
+this page is Responsive web design with the mobile and different screens size.   
    
    ![Screenshot (324)](https://user-images.githubusercontent.com/86498365/124357563-d414d300-dc24-11eb-9d77-ca251b59a0b5.png)
    
