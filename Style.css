@@ -1,0 +1,41 @@
+body {
+  background:#dce6ea;
+}
+div{
+    width: 100%;
+    display:block;
+    margin-top: 100px;
+    text-align: center;
+    height: auto
+}
+.Style p {
+  font-size:18px;
+  font-weight:600;
+  font-family:sans-serif;
+  
+  color:#00acee;
+ 
+}
+.Style h1 {
+  font-size:40px;
+  font-weight:600;
+  font-family:sans-serif;
+
+  color:#00acee;
+}
+
+.button{
+  position:center;
+  width:120px;
+  height:60px;
+  background:#00acee;
+  border:1px solid #f5f5f5;
+  border-radius:20px;
+  box-shadow:0px 10px 20px rgba(0,0,0,0.15);
+  font-size:20px;
+  text-align: center;
+  font-family:sans-serif;
+  color:#f5f5f5;
+  
+}
+
